@@ -1,0 +1,41 @@
+body {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.top {
+  display: flex;
+  gap: 20px;
+}
+.pinkbox1 {
+  background-color: #ea9999;
+  min-height: 150px;
+  min-width: 150px;
+}
+
+.bluebox1 {
+  background-color: #9fc5f8;
+  height: 150px;
+  width: 100%;
+}
+.middle {
+  display: flex;
+  gap: 20px;
+}
+
+.pinkbox2 {
+  background-color: #ea9999;
+  min-height: 150px;
+  min-width: 150px;
+}
+
+.bluebox2 {
+  background-color: #9fc5f8;
+  height: 150px;
+  width: 100%;
+}
+.yellowbox {
+  background-color: #ffe599;
+  height: 150px;
+  width: 100%;
+}
